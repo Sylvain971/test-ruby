@@ -1,1 +1,1 @@
-print "Hello World we global !"
+print "Bonjour le Monde, on est international !"
